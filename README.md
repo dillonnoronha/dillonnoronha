@@ -1,4 +1,4 @@
-##Hi, I’m Dillon Noronha 👋
+Hi, I’m Dillon Noronha 👋
 I build secure, observable systems and high-polish UIs—from low-level C (virtual machines) to Python backends (FastAPI/Redis/Postgres) to React/Tailwind frontends. Sometimes I ship 3D/real-time projects in Unreal Engine 5 for fun and learning.
 
 🧠 How I like to code
